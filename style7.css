@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   
+}
+.container{
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    background-color: blue;
+    
+}
+.youtube-thumbnail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
